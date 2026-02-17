@@ -1,8 +1,8 @@
 file_format: "1"
-id: mona2
-name: mona2
+id: keyballble
+name: keyballble
 type: shield
-url: https://github.com/sayu-hub/zmk-config-moNa2.0
+url: https://github.com/Dist16384/Keyball-v2
 requires: [seeeduino_xiao_ble]
 features:
   - keys
