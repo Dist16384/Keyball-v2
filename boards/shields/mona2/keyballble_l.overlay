@@ -1,4 +1,4 @@
-#include "mona2.dtsi"
+#include "keyballble.dtsi"
 
 &kscan0 {
         col-gpios
